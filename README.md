@@ -1,5 +1,5 @@
-Stochastic gradient descent project to fit the parameters Θ for the training data A2_T1.tab (a tab-delimited text file) posted here. This data consists of 2 features
-and 500 instances. For this task, we want to answer the following questions:
+# Stochastic gradient descent project to fit the parameters Θ for the training data A2_T1.tab (a tab-delimited text file)
+This data consists of 2 features and 500 instances. For this task, we want to answer the following questions:
 
 a) SGD implementation source code
 
